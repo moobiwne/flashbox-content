@@ -1,0 +1,14 @@
+
+{
+  "version": 1,
+  "decks": [
+    {
+      "id": "english-basics",
+      "title": "واژگان پایه انگلیسی",
+      "description": "چند واژه پرکاربرد برای شروع یادگیری انگلیسی",
+      "category": "زبان انگلیسی",
+      "cardCount": 5,
+      "file": "english-basics.json"
+    }
+  ]
+}
