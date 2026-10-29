@@ -1,0 +1,27 @@
+
+{
+  "id": "english-basics",
+  "title": "واژگان پایه انگلیسی",
+  "cards": [
+    {
+      "front": "Apple",
+      "back": "سیب"
+    },
+    {
+      "front": "Book",
+      "back": "کتاب"
+    },
+    {
+      "front": "Water",
+      "back": "آب"
+    },
+    {
+      "front": "Learn",
+      "back": "یاد گرفتن"
+    },
+    {
+      "front": "Beautiful",
+      "back": "زیبا"
+    }
+  ]
+}
